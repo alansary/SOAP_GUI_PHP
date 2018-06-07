@@ -8,6 +8,10 @@ This is a light weight php and java application that can be used for consuming s
 
 ### Below are the images showing the gui in phone [when the file home.php from this repository is run on a php server]
 
+![p2](https://user-images.githubusercontent.com/20777854/41074751-29dd8f34-6a27-11e8-8ef5-066ed8f53b6e.png)
+
+
+# [Bigger resolution]
 ![screenshot_2018-06-06-20-52-48](https://user-images.githubusercontent.com/20777854/41074025-a3e08de4-6a23-11e8-88d9-10c33a5af8b3.png)
 ![screenshot_2018-06-06-20-53-59](https://user-images.githubusercontent.com/20777854/41074026-a4183e74-6a23-11e8-93dc-a06752d195ff.png)
 ![screenshot_2018-06-06-20-54-52](https://user-images.githubusercontent.com/20777854/41074027-a44f4d2e-6a23-11e8-92f4-f837726267eb.png)
