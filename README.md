@@ -4,7 +4,7 @@ This is a light weight php and java application that can be used for consuming s
 ### Java version
 ![p1](https://user-images.githubusercontent.com/20777854/41074603-8049bf88-6a26-11e8-8b04-78979efa5a9c.png)
 
-## Php can also be run on phone by downloading php server from the play store
+## Php version [home.php] can also be run on phone by downloading php server from the play store
 
 ### Below are the images showing the gui in phone [when the file home.php from this repository is run on a php server]
 
